@@ -14,12 +14,12 @@ export class SkillsComponent {
 
     let p1 = {
       title: "Programming Languages and Technical Skills",
-      descrip : "C++, Python, SQL, ROS, Git, Unity, Packet Tracer",
+      descrip : "C++, Python, SQL, ROS, Git, Unity, Packet Tracer.",
     };
 
     let p2 = {
-      title: "Languages",
-      descrip : "Spanish> Native, English> B2, French> Basic, Japanese> Basic",
+      title: "Achievements and Certificates",
+      descrip : "Award for being in the top 1% GPAs of Engineering and Sciences (ITESM 2021), Cisco CCNAv7 course: Introduction of Networks (2022), CCNAv7: Switching, Routing, and Wireless Essentials (2023).",
     
     };
 
